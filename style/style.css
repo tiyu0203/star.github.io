@@ -89,14 +89,15 @@ ol li
   margin-right: auto;}
 
 #header
-{ background: #8B0073;
-  height: 240px;}
+{ background: #580A7C;
+  height: 100px;}
+  
 
 #logo
 { width: 825px;
   position: relative;
-  height: 168px;
-  background: #8B0073 url(logo.png) no-repeat;}
+  height: 100px;
+  background: #580A7C }
 
 #logo #logo_text 
 { position: absolute; 
@@ -116,7 +117,7 @@ ol li
   text-decoration: none;}
 
 #logo_text h1 a .logo_colour
-{ color: #FD5BFF;}
+{ color: #580A7C;}
 
 #logo_text h2
 { font-size: 100%;
@@ -155,7 +156,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   background: #3F1B41 url(menu_select.png) repeat-x;}
 
 #site_content
-{ width: 837px;
+{ width: 1500px;
   overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 20px 24px 20px 37px;
@@ -163,7 +164,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 .sidebar
 { float: right;
-  width: 190px;
+  width: 600px;
   padding: 0 15px 20px 15px;}
 
 .sidebar ul
@@ -294,3 +295,9 @@ table tr td
 { background: #F0EFE2;
   color: #47433F;
   border-top: 1px solid #FFF;}
+  
+
+
+
+
+  
